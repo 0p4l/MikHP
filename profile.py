@@ -34,8 +34,8 @@ def profil():
             # Format the system information
             system = system_info[0]  # Assuming single result
             info_message = (
-                f"OPALNET\n"
-                f"Lancar dan cepat\n\n"
+                f"NAMA USAHA\n"
+                f"DESKRIPSI USAHA\n\n"
                 f"===== Mikrotik Information =====\n\n"
                 f"Uptime: {system['uptime']}\n\n"
                 f"CPU\n"
